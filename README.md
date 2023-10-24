@@ -11,6 +11,9 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 Proposta
 Construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: Diagrama de classe estacionamento
 
+![image](https://github.com/VivianeVida/trilha-net-fundamentos-desafio/assets/67081266/836c4a91-b0ca-40da-aa3e-ce9b69790c93)
+
+
 A classe contém três variáveis, sendo:
 
 precoInicial: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
